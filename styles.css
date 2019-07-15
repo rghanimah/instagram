@@ -1,0 +1,38 @@
+.row {
+display: flex;
+justify-content: space-around;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+.row img {
+  padding: 10px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.buttonrow{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+}
+.heart {
+  background-color: white;
+  height: 30px;
+  transform: rotate(-45deg);
+  width: 30px;
+  }
+
+
+.comment{
+  width: 100px;
+  height: 30px;
+}
+
+.red {
+  background-color: red;
+}
